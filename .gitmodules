@@ -1,0 +1,3 @@
+[submodule "KvaserCAN-Library"]
+	path = KvaserCAN-Library
+	url = https://github.com/mac-can/KvaserCAN-Library
